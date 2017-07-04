@@ -310,6 +310,7 @@
 				C92F89001F0B2B6C00D43107 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
